@@ -10,3 +10,6 @@ book
 cat
 bear
 tiger
+Money
+Burger
+Veggies
