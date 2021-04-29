@@ -1,4 +1,4 @@
-# Hangman With File I/O ad Functions
+# Hangman With File I/O and Functions
 
 - Static Code Analysis pylint:
       
