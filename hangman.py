@@ -126,7 +126,7 @@ def play():
         if guess not in word:
             turn -= 1
             print("\nOH NO! ... invalid character, ", end="")
-            print(f"You have {turn} chances left.")     # shows number of turns left
+            print(f"You have {turn} chances left.")     # shows number of turns remaining
             if turn == 0:
                 print("You are HANGED!!")
                 choice = input("Play Again? y/n\n")
