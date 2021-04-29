@@ -91,7 +91,7 @@ def play():
                 wrong += 1
         if wrong == 0:
             sleep(1)
-            print("\YAYY YOUR Saved!")
+            print("\nYAY YOUR Saved!")
             choice = input("Play Again? y/n\n")
             if "y" in choice:
                 play()
@@ -101,7 +101,7 @@ def play():
             else:
                 print("ERROR: Wrong Choice")
                 sys.exit()
-        guess = input("\tGuess Character: ")[0]   # reads only 1st character from input
+        guess = input("\tGuess Character: ")[0]  # reads only 1st character from input
         if guess not in word:
             turn -= 1
             print("\nOH NO! ... invalid character, ", end="")
