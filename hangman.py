@@ -1,3 +1,4 @@
+# pylint: disable=C0114
 import sys
 import random
 from time import sleep
