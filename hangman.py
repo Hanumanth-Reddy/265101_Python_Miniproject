@@ -14,7 +14,9 @@ print(WELCOME)
 
 
 def menu():
-    """Menu of game contains play and admin options"""
+    """
+    Menu of game contains play and admin options
+    """
     print("--------------  MENU  ---------------")
     print("1: PLAYER")
     print("2: ADMIN")
@@ -33,7 +35,9 @@ def menu():
 
 
 def admin():
-    """ contains all the admin controls like adding words and viewing words that are used in game"""
+    """
+    contains all the admin controls like adding words and viewing words that are used in game
+    """
     print("\t *** WELCOME ADMIN ***\t")
     print("MANAGE THE WORDS IN GAME")
     print("1: Add")
@@ -73,7 +77,8 @@ def add():
 
 
 def view():
-    """reading contents of words.txt file and using with for opening file
+    """
+    reading contents of words.txt file and using with for opening file
     so that file closes automatically
     """
     sub = []
