@@ -24,7 +24,7 @@
   and spaces are provided according to the length of word. player has 8 chances to guess a words to win else lost.
   once the play was ended, it will prompt the player whether they want to play again or end.
   
-## Modules imported:
+## Modules imported
 - `sys`    - exit() is used.
 - `random` - choice() is used to pick random word.
 - `time`   - sleep() to produce time delay between functions.
