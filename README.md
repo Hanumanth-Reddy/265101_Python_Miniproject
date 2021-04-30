@@ -2,6 +2,7 @@
 
 - Static Code Analysis pylint:
       
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1e5cb69760be4c47b7d7521cd417e7e5)](https://app.codacy.com/gh/Hanumanth-Reddy/265101_Python_Miniproject?utm_source=github.com&utm_medium=referral&utm_content=Hanumanth-Reddy/265101_Python_Miniproject&utm_campaign=Badge_Grade_Settings)
      [![Static Code Analysis - pylint](https://github.com/Hanumanth-Reddy/265101_Python_Miniproject/actions/workflows/Static%20Code%20analysis%20-%20pylint.yml/badge.svg)](https://github.com/Hanumanth-Reddy/265101_Python_Miniproject/actions/workflows/Static%20Code%20analysis%20-%20pylint.yml)
 
 ## Files
