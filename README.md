@@ -4,6 +4,10 @@
       
      [![Static Code Analysis - pylint](https://github.com/Hanumanth-Reddy/265101_Python_Miniproject/actions/workflows/Static%20Code%20analysis%20-%20pylint.yml/badge.svg)](https://github.com/Hanumanth-Reddy/265101_Python_Miniproject/actions/workflows/Static%20Code%20analysis%20-%20pylint.yml)
 
+- Codacy:
+  
+    [![Codacy Badge](https://app.codacy.com/project/badge/Grade/286856cc5a6a46a08cfbb7ff5b5fda0f)](https://www.codacy.com/gh/Hanumanth-Reddy/265101_Python_Miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Hanumanth-Reddy/265101_Python_Miniproject&amp;utm_campaign=Badge_Grade)
+
 ## Files
 - `hangman.py` - complete project code.
 - `words.txt`  - file that contains words to play game, and some operations for 
